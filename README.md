@@ -1,5 +1,3 @@
-# supermarket-app
-the final test for the sprints X microsoft app development course
 Supermarcket App
 This project is a Flutter application designed to simulate a basic online supermarket experience. It allows users to navigate through product listings and view "hot offers." The application focuses on demonstrating fundamental Flutter UI/UX principles and navigation.
 
